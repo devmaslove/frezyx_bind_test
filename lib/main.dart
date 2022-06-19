@@ -37,6 +37,7 @@ class MyHomePage extends StatelessWidget {
             onPressed: () {},
           ),
         ],
+        backgroundColor: Colors.black,
       ),
       backgroundColor: Colors.white,
       body: ListView(
